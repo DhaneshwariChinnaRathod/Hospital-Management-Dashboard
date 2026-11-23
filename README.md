@@ -1,3 +1,4 @@
+
 # Hospital Management Dashboard \| Power BI
 
 ## Project Overview
@@ -96,3 +97,7 @@ Hospital-Dashboard/
 **Project:** Hospital Management Dashboard\
 **Tool:** Microsoft Power BI\
 **Format:** `.pbix`
+
+# Hospital-Management-Dashboard
+Interactive Hospital Management Dashboard built using Microsoft Power BI, featuring patient analysis, doctor performance, hospital operations, and financial insights.
+
